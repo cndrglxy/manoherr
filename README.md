@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoherr
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on AIR
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ,, email
 
 <!---
