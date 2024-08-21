@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manoherr
+- 👋 Hi, I’m Krishna
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on AI
